@@ -10,7 +10,7 @@ enum anne_pro_layers {
   _FN3_LAYER,
 };
 
-#define CAPS_LOCATION (MATRIX_COLS * 2 + 0)
+// #define CAPS_LOCATION (MATRIX_COLS * 2 + 0)
 
 	// Key symbols are based on QMK. Use them to remap your keyboard
 	/*
